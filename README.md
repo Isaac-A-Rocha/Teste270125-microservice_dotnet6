@@ -1,0 +1,1 @@
+# Teste270125-microservice_dotnet6
